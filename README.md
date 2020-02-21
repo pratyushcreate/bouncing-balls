@@ -1,2 +1,2 @@
-# bouncing-balls
-ball will bounce off if it touches ground
+# staticSquare
+A static square made using Matter.js physics engine
